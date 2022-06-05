@@ -1,8 +1,9 @@
-# Frontend Mentor - Intro section with dropdown navigation solution
+# Frontend Mentor - Seção de introdução com solução de navegação dropdown
 
-This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é uma solução para a [Seção de introdução com solução de navegação dropdown no Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Os desafios do Frontend Mentor ajudam a melhorar as habilidades de codificação construindo projetos realistas.
 
-## Table of contents
+
+## Tabela de conteúdos
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -16,7 +17,6 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
