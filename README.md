@@ -1,14 +1,5 @@
 # Frontend Mentor - Intro section with dropdown navigation
 
-
-```javascript
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-coloca markdown.to_html
-```
-
-
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
